@@ -21,7 +21,7 @@ borrow_book(member1, inventory, "Data Science")
 
 # Kiểm tra sách còn lại
 print("\nCurrent Inventory:")
-for book in inventory.books:
+for book in inventory.books: 
     print(book)
 
 # Trả sách
